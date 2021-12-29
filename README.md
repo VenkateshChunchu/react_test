@@ -40,6 +40,7 @@ We have JSON and XML file kept in public folder in local and fetch the data usin
 - Serialize and Deserialize the response based the on the Model fields
 - Improve XMLtoJSON function based on what is expected input or add the small library which does the job for us
 - Add unit test case and functional test cases for each logic we written using Jest and Enzyme
+- Better logging in Service, error handling, retry if required and we can also add error boundary components for further improvements
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
